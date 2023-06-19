@@ -1,0 +1,130 @@
+/* BODY TEXT FONT */
+body {
+    font-family: "Baskerville";
+    color: #38383a;
+    background-color: #f6f7f9;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #38383a;
+}
+
+a {
+    color: #5b0b15;
+}
+
+h1.page-header {
+    color:#5b0b15;
+}
+
+
+/* SLIDER INPUT */
+.irs--shiny .irs-bar {
+    border-top: 1px solid #5b0b15;
+    border-bottom: 1px solid #5b0b15;
+    background: #5b0b15;
+}
+
+.irs--shiny .irs-single {
+    background-color: #5b0b15;
+}
+
+
+/* NAVIGATION BAR */
+.navbar-default .navbar-brand {
+    color: #5b0b15;
+    font-weight: bold
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #38383a;
+    font-size: 18px;
+}
+
+
+/* WELL PANEL*/
+.well{
+    background-color: #ffffff;
+}
+
+.control-label {
+    color: #414a37;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+/* INFO CARDS*/
+
+#info_cards.container {
+    padding-left: 0px;
+}
+
+.col-sm-12.pull-left{
+    color: #414a37;
+}
+
+.text-success {
+    color: #526c36;
+}
+
+.text-warning {
+    color: #be7613;
+}
+
+.fa-file-import:before {
+   color: #5b0b15;
+}
+
+.fa-info:before {
+    color: #5b0b15;
+}
+
+.fa-money-bill-1-wave:before{
+    color: #5b0b15;
+}
+
+.fa-truck:before {
+    color: #5b0b15;
+}
+
+#cards_toogle.btn.btn-default.action-button.pull-right.shiny-bound-input {
+    color:#5b0b15;
+}
+
+
+/* BUTTONS*/
+.btn.radiobtn.btn-default {
+    color:#5b0b15;
+}
+
+#apply.btn.btn-default.action-button.shiny-bound-input{
+    color:#5b0b15;
+}
+
+#reset.btn.btn-default.action-button.shiny-bound-input{
+    color:#5b0b15;
+}
+
+
+/* MATERIAL SWITCH - PREDICTION*/
+.material-switch>input[type=checkbox]:checked+label:after {
+    background: #5b0b15
+}
+
+.material-switch>span{
+    font-size:  17px;
+    color:#414a37;
+    font-weight: bold;
+}
+
+
+/* PANELS-PLOTS */
+.panel {
+    padding: 10px;
+}
+
+.bg-primary {
+    background-color: #f6f7f9;
+}
+
