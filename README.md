@@ -1,1 +1,1 @@
-# sales_analyzer_app
+# Sales analyzer app - shiny
